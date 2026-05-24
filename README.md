@@ -2,6 +2,7 @@
 Economic Indicators of Real Estate: A Regression Analysis
 
 
+
 Project Objective
 The primary goal of this project was to analyze how specific economic indicators—specifically Median Income—influence housing prices in California. Using a machine learning approach, we developed a predictive model to quantify this relationship and visualize the market trend.
 
